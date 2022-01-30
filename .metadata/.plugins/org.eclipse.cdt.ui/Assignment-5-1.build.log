@@ -1,0 +1,6 @@
+09:05:20 **** Incremental Build of configuration Debug for project Assignment-5-1 ****
+Info: Internal Builder is used for build
+gcc -o Assignment-5-1.exe "src\\Assignment-5-1.o" 
+
+09:05:20 Build Finished. 0 errors, 0 warnings. (took 97ms)
+

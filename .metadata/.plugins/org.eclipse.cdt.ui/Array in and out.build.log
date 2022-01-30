@@ -1,0 +1,7 @@
+10:16:52 **** Incremental Build of configuration Debug for project Array in and out ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array in and out.o" "..\\src\\Array in and out.c" 
+gcc -o "Array in and out.exe" "src\\Array in and out.o" 
+
+10:16:52 Build Finished. 0 errors, 0 warnings. (took 330ms)
+

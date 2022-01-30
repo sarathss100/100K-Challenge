@@ -1,0 +1,7 @@
+22:11:16 **** Incremental Build of configuration Debug for project For Loop test ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\For Loop test.o" "..\\src\\For Loop test.c" 
+gcc -o "For Loop test.exe" "src\\For Loop test.o" 
+
+22:11:17 Build Finished. 0 errors, 0 warnings. (took 245ms)
+

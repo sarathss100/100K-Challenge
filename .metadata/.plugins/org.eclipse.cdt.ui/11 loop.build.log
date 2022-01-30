@@ -1,0 +1,7 @@
+12:15:05 **** Incremental Build of configuration Debug for project 11 loop ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\11 loop.o" "..\\src\\11 loop.c" 
+gcc -o "11 loop.exe" "src\\11 loop.o" 
+
+12:15:05 Build Finished. 0 errors, 0 warnings. (took 272ms)
+

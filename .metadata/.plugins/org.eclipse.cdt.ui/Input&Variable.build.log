@@ -1,0 +1,7 @@
+15:05:28 **** Incremental Build of configuration Debug for project Input&Variable ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Input&Variable.o" "..\\src\\Input&Variable.c" 
+gcc -o Input&Variable.exe "src\\Input&Variable.o" 
+
+15:05:29 Build Finished. 0 errors, 0 warnings. (took 291ms)
+

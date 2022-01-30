@@ -1,0 +1,7 @@
+10:16:37 **** Rebuild of configuration Debug for project Sample-8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sample-8.o" "..\\src\\Sample-8.c" 
+gcc -o Sample-8.exe "src\\Sample-8.o" 
+
+10:16:37 Build Finished. 0 errors, 0 warnings. (took 300ms)
+

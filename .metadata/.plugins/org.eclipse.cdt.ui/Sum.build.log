@@ -1,0 +1,7 @@
+22:22:36 **** Incremental Build of configuration Debug for project Sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum.o" "..\\src\\Sum.c" 
+gcc -o Sum.exe "src\\Sum.o" 
+
+22:22:36 Build Finished. 0 errors, 0 warnings. (took 240ms)
+

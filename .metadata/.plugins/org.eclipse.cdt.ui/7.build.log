@@ -1,0 +1,6 @@
+11:22:12 **** Incremental Build of configuration Debug for project 7 ****
+Info: Internal Builder is used for build
+gcc -o 7.exe "src\\7.o" 
+
+11:22:12 Build Finished. 0 errors, 0 warnings. (took 160ms)
+

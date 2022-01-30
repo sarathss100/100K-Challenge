@@ -1,0 +1,7 @@
+09:04:21 **** Incremental Build of configuration Debug for project Ext-1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ext-1.o" "..\\src\\Ext-1.c" 
+gcc -o Ext-1.exe "src\\Ext-1.o" 
+
+09:04:21 Build Finished. 0 errors, 0 warnings. (took 240ms)
+

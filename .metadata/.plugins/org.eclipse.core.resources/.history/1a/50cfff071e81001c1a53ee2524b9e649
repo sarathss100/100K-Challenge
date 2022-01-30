@@ -1,0 +1,12 @@
+
+public class Choice {
+
+	public static void main(String[] args) {
+		System.out.println("Welcome to De Hotel");
+		System.out.println("Please select your choice : ");
+		System.out.println("1 for biriyani\n 2 for chappathi\n3 for Poratta\n4 for Mandhi :");
+		
+
+	}
+
+}

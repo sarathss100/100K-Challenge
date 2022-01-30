@@ -1,0 +1,7 @@
+08:22:59 **** Incremental Build of configuration Debug for project Reverse Pattern Printing ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reverse Pattern Printing.o" "..\\src\\Reverse Pattern Printing.c" 
+gcc -o "Reverse Pattern Printing.exe" "src\\Reverse Pattern Printing.o" 
+
+08:22:59 Build Finished. 0 errors, 0 warnings. (took 247ms)
+
